@@ -1,14 +1,9 @@
-h1,
-h2,
-h3,
-p {
+html {
   font-family: "Helvetica", "Sans-serif";
 }
 
-h1,
-h2,
-h3,
-span {
+.price {
+  color: blue;
   font-weight: bold;
 }
 
@@ -34,8 +29,4 @@ h2 {
 
 #paint h2 {
   background-color: skyblue;
-}
-
-span {
-  color: blue;
 }
